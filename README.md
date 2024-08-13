@@ -11,7 +11,7 @@ This project is a proof of concept for Acme Widget Co's new sales system. It dem
 
 ## Installation
 1. Clone the repository:
-git clone <repository-url>
+git clone <https://github.com/simaG19/architech-labs-code-test.git>
 
 2. Navigate to the project directory:
 cd <project-directory>
