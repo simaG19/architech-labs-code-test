@@ -4,3 +4,7 @@ This project is a proof of concept for Acme Widget Co's new sales system. It dem
 - Add products to the basket by product code.
 - Automatically apply special offers.
 - Calculate the total cost, including delivery charges based on the order amount.
+## Usage
+1. Initialize the `Basket` class with products, delivery rules, and offers.
+2. Use the `add` method to add products to the basket by their product codes.
+3. Call the `total` method to calculate and display the total cost of the basket.
